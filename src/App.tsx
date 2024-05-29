@@ -22,14 +22,13 @@ export default function App() {
               a realistic-ish problem.
             </p>
             <p>
-              There is no time limit. Spend the time that you think correctly
-              showcases your skills. For reference: with a couple of hours work,
-              we expect everyone will get through most of this problem, but not
-              all the way through. If invited to a technical interview, you'll
-              pair with us wherever you left off, because we'd much rather see
-              how you work on a problem you're familiar with and have had time
-              to think about than on some clever whiteboard puzzle we spring on
-              you.
+              We suggest spending 1-2 hours on this. You are welcome to spend
+              more time on it if you desire, but we do not expect you to finish!
+              If invited to a technical interview, we'll go over your solution
+              together, and then you'll pair with us wherever you left off. We'd
+              much rather see how you work on a problem you're familiar with and
+              have had time to think about than on some clever whiteboard puzzle
+              we spring on you.
             </p>
             <p>At this stage, we care most about:</p>
             <ul>
